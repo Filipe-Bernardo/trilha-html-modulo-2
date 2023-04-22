@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre a Clínica</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html"><strong>Home</strong></a></li><br>
+                <li><a href="sobreaclinica.html"><strong>Sobre a Clínica</strong></a></li><br>
+                <li><a href="funcionamento.html"><strong>Funcionamento</strong></a></li><br>
+                <li><a href="contato.html"><strong>Contato</strong></a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="sobre_nos.png" width="1000" height= 200 alt="sobre nós">
+                <!-- Aqui vai o seu header -->
+            </div>
+
+            <div class="content">
+                <h1 style="color: #DCCBB8;" text align="center">Conceito, a numero 1 em dermatologia e cuidados da pele.
+                </h1>
+                    <p>Fundada em 1990, a <strong>Clinica Conceito</strong> possui mais de 30 anos de história, transformando a vida de milhares de pacientes que ja passaram por aqui. A Conceito analisa paciente a paciente, pois assim como cada pessoa é única, a sua pele também é unica.</p>
+                    <p>Possuímos excelentes instalações e acomodações para nossos colaboradores e pacientes. Nossos prpfissionais são altamente capacitados e estamos sempre conectados com as mais novas tecnologias e tratamentos do Brasil e do mundo.</p>
+                    <p>A Conceito tem orgulho em dizer que é a <em><u>Número 1 em Dermatologia e cuidados com a pele.</u></em> Eleitos pela revista <em><strong>Sua Pele</strong></em>, pelo quinto ano consecutivo a melhor Clínica Dermatológica de São Paulo.</p>              
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+
+            <div class="footer">
+                <p text align="center"><strong>Nosso endereço: Rua José Mortari, 442 - Suissa - Ribeirão Pires - SP.</strong></p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14611.79765987751!2d-46.4230989!3d-23.7135004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6c9289e46971%3A0x7056b3c3609cf533!2sConceito%20Cl%C3%ADnica%20M%C3%A9dica!5e0!3m2!1spt-BR!2sbr!4v1682104769346!5m2!1spt-BR!2sbr" width="1000" style="border: 1px;;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <p text align="center"><small><strong>Desenvolvido por: Filipe Bernardo</strong></small></p>
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>   
+</body>
+</html>
